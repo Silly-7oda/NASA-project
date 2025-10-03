@@ -8,4 +8,4 @@ Despite its simplicity, we hope it helps showcase the core idea and meets your e
 
 To view the website, open the index.html file in your web browser.
 
-EDITOR'S NOTE: We used Claude Sonnet 4.5 as it was the best available free source 
+TOOLS USED: Claude Sonnet 4.5, some help from ChatGPT in writing, API & JPL from nasa.gov, AI video gen
