@@ -8,7 +8,7 @@ Despite its simplicity, we hope it helps showcase the core idea and meets your e
 
 To view the website, open the index.html file in your web browser.
 
-https://docs.google.com/presentation/d/1JeBRK8oFxp1Xakdbh1GefqmynxUxL6L0/edit?slide=id.p1#slide=id.p1
-a link to the presentation if downloading is an issue
+a [link](https://docs.google.com/presentation/d/1JeBRK8oFxp1Xakdbh1GefqmynxUxL6L0/edit?slide=id.p1#slide=id.p1)  to the presentation if downloading is an issue
+
 
 TOOLS USED: Claude Sonnet 4.5, some help from ChatGPT in writing, API & JPL from nasa.gov, AI video gen
