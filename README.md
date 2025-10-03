@@ -7,3 +7,5 @@ This website is a simplified demonstration of the full version. Due to certain l
 Despite its simplicity, we hope it helps showcase the core idea and meets your expectations as part of our humble project.
 
 To view the website, open the index.html file in your web browser.
+
+EDITOR'S NOTE: We used Claude Sonnet 4.5 as it was the best available free source 
