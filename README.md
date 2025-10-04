@@ -1,4 +1,3 @@
-METEOR MADNESS CHALLENGE
 
 Welcome to the Meteor Madness Challenge! 🚀
 
