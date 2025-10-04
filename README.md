@@ -8,7 +8,55 @@ Despite its simplicity, we hope it helps showcase the core idea and meets your e
 
 To view the website, open the index.html file in your web browser.
 
-a [link](https://docs.google.com/presentation/d/1JeBRK8oFxp1Xakdbh1GefqmynxUxL6L0/edit?slide=id.p1#slide=id.p1)  to the presentation if downloading is an issue
+A [link](https://jumpshare.com/s/zl04OIDkQlREXTzjr4R4)  to the presentation if downloading is an issue
 
 
-TOOLS USED: Claude Sonnet 4.5, some help from ChatGPT in writing, API & JPL from nasa.gov, AI video gen
+
+
+PROJECT DETAILS:
+
+- FEATURES
+
+Live integration with NASA NEO API & USGS datasets.
+
+3D orbital paths + impact zone maps (blast, crater, tsunami, seismic).
+
+Interactive controls for asteroid size, velocity, and deflection strategies.
+
+Dual modes: Science (raw data, exports) & Public (infographics, simplified views).
+
+Gamified “Defend Earth” mode for outreach.
+
+- WORKFLOW
+
+Fetch asteroid + environmental data.
+
+Run trajectory & impact-energy simulations (mass, KE, crater scaling).
+
+Visualize results on a 3D globe and 2D hazard maps.
+
+Users test scenarios & mitigation (e.g., kinetic impactors).
+
+Share results or reports.
+
+- BENEFITS
+
+Makes complex asteroid science accessible.
+
+Supports decision makers with scenario modeling.
+
+Educates and engages the public through visuals & gamification.
+
+Encourages global preparedness by merging siloed datasets.
+
+TOOLS USED:
+
+Backend: HTML
+
+Frontend: NODE.JS
+
+Data: NASA NEO API, USGS topography & seismic/tsunami data, OpenTopography DEMs.
+
+Infra: Docker, Redis, optional cloud hosting.
+
+AI tools used: Claude Sonnet 4.5, and some help from ChatGPT in writing.
