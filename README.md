@@ -58,4 +58,4 @@ Data: NASA NEO API, USGS topography & seismic/tsunami data, OpenTopography DEMs.
 
 Infra: Docker, Redis, optional cloud hosting.
 
-AI tools used: Claude Sonnet 4.5, and some help from ChatGPT in writing.
+AI tools used: Claude Sonnet 4.5 for coding, and some help from ChatGPT in writing.
